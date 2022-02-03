@@ -1,5 +1,7 @@
-### Hi there 👋
+### Memo 🤔
 
+- axon
+- cqrs
 <!--
 **seolminsu90/seolminsu90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
