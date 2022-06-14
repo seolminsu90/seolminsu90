@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 
   <h3>✔️ 🧑‍🍼💦 BABY </h3>
-  <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
