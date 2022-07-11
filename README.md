@@ -45,6 +45,6 @@
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/python-7F7F7F?style=for-the-badge&logo=laravel&logoColor=white">
 
 </div>
