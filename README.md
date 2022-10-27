@@ -1,1 +1,1 @@
-Java Web Platform Developer :-)
+Web Platform Developer :-)
